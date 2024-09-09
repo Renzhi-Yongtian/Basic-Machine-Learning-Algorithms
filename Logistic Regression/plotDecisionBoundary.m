@@ -1,3 +1,4 @@
+% This file was modified from Andrew Ng's Machine Learning course materials.
 function plotDecisionBoundary(weights)
     
     u = linspace(30, 100, 100);
